@@ -1,0 +1,21 @@
+body{
+    background-color: #3b7dd3;
+}
+.about-section{
+    text-align:center;
+    background-color: rgb(121, 187, 241);
+    padding: 30px;
+    border-radius: 9px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    max-width: 900px;
+    margin: 50px auto;
+
+}
+.txt-color{
+    color: #3680cf;
+}
+.img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 9px; 
+}

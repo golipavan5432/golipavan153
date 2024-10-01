@@ -1,0 +1,11 @@
+body{
+    background-color:white;
+    color:black;
+}
+.nav-item{
+    background-color: blue;
+    color:beige;
+    display:flex;
+    padding:15px;
+    justify-contact:space-between;
+}
